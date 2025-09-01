@@ -1,3 +1,6 @@
 [submodule "input_layer"]
 	path = input_layer
 	url = git@github.com:maliedvp/safe_hdb_inputlayer.git
+[submodule "input_page_xml"]
+	path = input_page_xml
+	url = https://github.com/InaKrappDeveloper/input_page_xml.git
